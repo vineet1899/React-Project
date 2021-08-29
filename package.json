@@ -1,0 +1,33 @@
+{
+  "name": "weather-app",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "chart.js": "2.8.0",
+    "react": "16.8.6",
+    "react-chartkick": "0.3.2",
+    "react-dom": "16.8.6",
+    "react-google-charts": "3.0.15",
+    "react-scripts": "3.0.1",
+    "react-vis": "1.11.7",
+    "recharts": "^2.1.2",
+    "moment-timezone": "^0.5.28"
+  },
+  "devDependencies": {
+    "typescript": "3.3.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
